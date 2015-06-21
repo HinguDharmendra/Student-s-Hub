@@ -1,0 +1,45 @@
+[26-Feb-2013 20:40:20 +0100]: IMAP Error: Login failed for hingu@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:41:09 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:42:01 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:49:52 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:50:01 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:51:16 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:53:26 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:53:39 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:54:06 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 20:54:13 +0100]: IMAP Error: Login failed for deepshah@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\roundcubemail\program\include\rcube_imap.php on line 191 (POST /hub/roundcubemail/?_task=login&_action=login)
+[26-Feb-2013 21:02:43 +0100]: SMTP Error: SMTP error: Failed to add recipient 'dharmendra@localhost.com' in C:\xampp\htdocs\hub\mail\program\include\main.inc on line 1485 (POST /hub/mail/?_unlock=loading1361908963646&_lang=en?_task=mail&_action=send)
+[26-Feb-2013 21:45:38 +0100]: IMAP Error: Login failed for deep@lhub.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
+[27-Feb-2013 08:07:12 +0100]: IMAP Error: Login failed for deep@hub.com from ::1. Could not connect to localhost:143: No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
+[27-Feb-2013 08:07:21 +0100]: IMAP Error: Login failed for deep@hub.com from ::1. Could not connect to localhost:143: No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
+[27-Feb-2013 10:02:23 +0100]: IMAP Error: Login failed for admin@hub.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
+[27-Feb-2013 10:03:36 +0100]: IMAP Error: Login failed for Admin@localhost.com from ::1. AUTHENTICATE PLAIN: A0003 NO Username or password incorrect. in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
+[27-Feb-2013 10:03:37 +0100]: IMAP Error: Login failed for admin@localhost.com from ::1. AUTHENTICATE PLAIN: A0006 NO Username or password incorrect. in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
+[27-Feb-2013 17:22:26 UTC] MDB2 Error: connect failed (-24): _doConnect: [Error message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+[Native code: 1045]
+[Native message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+
+[27-Feb-2013 18:22:26 +0100]: DB Error: _doConnect: [Error message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+[Native code: 1045]
+[Native message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+ ** mysql(mysql)://roundcube:xxx@localhost/roundcubemail in C:\xampp\htdocs\hub\mail\program\include\rcube_mdb2.php on line 107 (GET /hub/mail/)
+[27-Feb-2013 17:43:42 UTC] MDB2 Error: connect failed (-24): _doConnect: [Error message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+[Native code: 1045]
+[Native message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+
+[27-Feb-2013 18:43:42 +0100]: DB Error: _doConnect: [Error message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+[Native code: 1045]
+[Native message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+ ** mysql(mysql)://roundcube:xxx@localhost/roundcubemail in C:\xampp\htdocs\hub\mail\program\include\rcube_mdb2.php on line 107 (GET /hub/mail/)
+[27-Feb-2013 18:03:28 UTC] MDB2 Error: connect failed (-24): _doConnect: [Error message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+[Native code: 1045]
+[Native message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+
+[27-Feb-2013 19:03:28 +0100]: DB Error: _doConnect: [Error message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+[Native code: 1045]
+[Native message: Access denied for user 'roundcube'@'localhost' (using password: YES)]
+ ** mysql(mysql)://roundcube:xxx@localhost/roundcubemail in C:\xampp\htdocs\hub\mail\program\include\rcube_mdb2.php on line 107 (GET /hub/mail/)
+[28-Feb-2013 08:42:45 +0100]: IMAP Error: Login failed for 101080043@localhost.com from ::1. Could not connect to localhost:143: No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\hub\mail\program\include\rcube_imap.php on line 191 (POST /hub/mail/?_task=login&_action=login)
